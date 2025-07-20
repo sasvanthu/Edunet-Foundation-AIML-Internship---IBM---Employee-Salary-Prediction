@@ -1,0 +1,35 @@
+# Python
+
+**pycache**/ \*.py\[cod\] \*$py.class
+
+# Virtual environments
+
+venv/ env/
+
+# Colab and runtime files
+
+\*.ipynb_checkpoints/ \*.pkl app.py ngrok.log ngrok-v3-stable-linux-amd64.tgz
+
+# Streamlit
+
+.streamlit/
+
+# OS generated files
+
+.DS_Store Thumbs.db
+
+# IDE files
+
+.idea/ \*.vscode/
+
+# Logs and databases
+
+\*.log \*.sqlite
+
+# Distribution / packaging
+
+dist/ build/ \*.egg-info/
+
+# Temporary files
+
+\*.tmp \*.bak
