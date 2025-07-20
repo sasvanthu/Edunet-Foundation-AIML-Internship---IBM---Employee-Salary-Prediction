@@ -1,35 +1,34 @@
-# Python
+# Gradle files
+.gradle/
+build/
 
-**pycache**/ \*.py\[cod\] \*$py.class
+# Local configuration file (sdk path, etc)
+local.properties
 
-# Virtual environments
+# Log/OS Files
+*.log
 
-venv/ env/
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.aab
+*.apk
+output-metadata.json
 
-# Colab and runtime files
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
 
-\*.ipynb_checkpoints/ \*.pkl app.py ngrok.log ngrok-v3-stable-linux-amd64.tgz
+# Keystore files
+*.jks
+*.keystore
 
-# Streamlit
+# Google Services (e.g. APIs or Firebase)
+google-services.json
 
-.streamlit/
-
-# OS generated files
-
-.DS_Store Thumbs.db
-
-# IDE files
-
-.idea/ \*.vscode/
-
-# Logs and databases
-
-\*.log \*.sqlite
-
-# Distribution / packaging
-
-dist/ build/ \*.egg-info/
-
-# Temporary files
-
-\*.tmp \*.bak
+# Android Profiling
+*.hprof
