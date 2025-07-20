@@ -1,20 +1,20 @@
-Employee Salary Prediction Project
+Employee Salary Prediction Project 🌟
 This repository contains a machine learning project to predict employee salaries based on various features using regression models. The project includes data preprocessing, model training, performance visualization, and a Streamlit web application for interactive predictions, hosted via ngrok in Google Colab.
-Overview
+Overview 📊
 
 Dataset: Uses Salary Data.csv, originally sourced from Kaggle, hosted at GitHub with features like Age, Gender, Education Level, Job Title, and YearsExperience to predict Salary.
 Models: Implements Linear Regression, Random Forest, SVR, and Decision Tree Regressors, with the best model saved as best_model.pkl.
 Visualizations: Includes a model comparison bar chart and plots for Salary Distribution, Salary by Education Level, Salary by Gender, Salary by Job Title (Top 20), and Years of Experience vs Salary.
 Streamlit App: Provides a web interface for single and batch salary predictions, accessible via a public ngrok URL.
 
-Prerequisites
+Prerequisites 🛠️
 
-Python 3.x
-Google Colab (for running the notebook)
-ngrok account (for hosting the Streamlit app)
+Python 3.x 🐍
+Google Colab 📈 (for running the notebook)
+ngrok account 🌐 (for hosting the Streamlit app)
 Required libraries: pandas, numpy, scikit-learn, matplotlib, streamlit, pyngrok, joblib
 
-Setup Instructions
+Setup Instructions 🚀
 
 Clone the Repository:
 git clone <your-repo-url>
@@ -50,7 +50,7 @@ Create and host the Streamlit app, providing a public URL.
 
 
 
-Usage
+Usage 🎯
 Visualizations
 After running the script, the following plots will be displayed in Colab:
 
@@ -70,18 +70,20 @@ Batch Prediction: Upload a CSV with the same columns to predict salaries for mul
 
 
 
-Files
+Files 📁
 
 salary_prediction_all_features_with_plots.py: Main script with model training, visualizations, and Streamlit app setup.
 app.py: Generated Streamlit application file.
 best_model.pkl: Saved best-performing model.
 README.md: This file.
+LICENSE: Project license file.
 
-Contributing
+Contributing 🤝
 Feel free to fork this repository, submit issues, or create pull requests for enhancements like additional features or dataset updates.
-License
+License 📜
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+Acknowledgments 🙏
 
 Dataset originally sourced from Kaggle, hosted on GitHub by the contributor.
 Built with support from open-source libraries and tools.
+Created on July 20, 2025, at 09:58 AM IST.
