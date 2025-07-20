@@ -1,5 +1,7 @@
 Employee Salary Prediction Project 🌟
+
 This repository contains a machine learning project to predict employee salaries based on various features using regression models. The project includes data preprocessing, model training, performance visualization, and a Streamlit web application for interactive predictions, hosted via ngrok in Google Colab.
+
 Overview 📊
 
 Dataset: Uses Salary Data.csv, originally sourced from Kaggle, hosted at GitHub with features like Age, Gender, Education Level, Job Title, and YearsExperience to predict Salary.
@@ -51,7 +53,9 @@ Create and host the Streamlit app, providing a public URL.
 
 
 Usage 🎯
+
 Visualizations
+
 After running the script, the following plots will be displayed in Colab:
 
 Model Comparison: Bar chart of R² Scores for each model.
@@ -79,8 +83,10 @@ README.md: This file.
 LICENSE: Project license file.
 
 Contributing 🤝
+
 Feel free to fork this repository, submit issues, or create pull requests for enhancements like additional features or dataset updates.
 License 📜
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgments 🙏
 
