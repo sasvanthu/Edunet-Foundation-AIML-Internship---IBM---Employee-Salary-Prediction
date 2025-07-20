@@ -2,6 +2,8 @@ Employee Salary Prediction Project 🌟
 
 This repository contains a machine learning project to predict employee salaries based on various features using regression models. The project includes data preprocessing, model training, performance visualization, and a Streamlit web application for interactive predictions, hosted via ngrok in Google Colab.
 
+This is my link to Access my Streamlit App: https://a58a2df8e190.ngrok-free.app/
+
 Overview 📊
 
 Dataset: Uses Salary Data.csv, originally sourced from Kaggle, hosted at GitHub with features like Age, Gender, Education Level, Job Title, and YearsExperience to predict Salary.
