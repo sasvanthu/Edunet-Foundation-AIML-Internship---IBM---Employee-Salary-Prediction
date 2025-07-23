@@ -7,7 +7,7 @@ Steps to Run the Website In Local Host:
 1. Open Google Colab:
 Go to Google Colab jupyter notebook in The Github Repository.
 
-2.Run the Code:
+2. Run the Code:
 Execute the following code in a Colab cell to start the Streamlit app and generate a temporary ngrok URL.
 
 3. Get the New Localhost Link:
